@@ -1,20 +1,2 @@
-# Reanimated example
 
-<p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-</p>
-
-## 🚀 How to use
-
-> `npx create-expo my-app --example with-reanimated`
-
-- Run `yarn` or `npm install`
-- Run `yarn start` or `npm run start` to try it out.
-
-## 📝 Notes
-
-- [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+<img width="458" alt="Screenshot 2023-05-08 135727" src="https://github.com/hqbianca/React-native/assets/74559470/41ba60c3-c2f3-4558-903e-e7a3c848100e">
