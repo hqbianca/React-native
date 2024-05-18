@@ -1,2 +1,3 @@
 
-<img width="458" alt="Screenshot 2023-05-08 135727" src="https://github.com/hqbianca/React-native/assets/74559470/41ba60c3-c2f3-4558-903e-e7a3c848100e">
+![WhatsApp Image 2024-05-18 at 10 15 50](https://github.com/hqbianca/React-native/assets/74559470/54be987a-ec55-4052-a305-81f2a2f68059)
+![WhatsApp Image 2024-05-18 at 10 15 52](https://github.com/hqbianca/React-native/assets/74559470/5c591cfd-a3c8-4a5e-bb83-3d65979fc988)
